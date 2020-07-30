@@ -34,6 +34,16 @@ function switchAge(age) {
       return "You are a teenager"
     case age === 14 :
       return "You are a teenager"
+    case age === 15 :
+      return "You are a teenager"
+    case age === 16 :
+      return "You are a teenag
+    case age === 17 :
+      return "You are a teenager"
+    case age === 18 :
+      return "You are a teenager"
+    case age === 19 :
+      return "You are a teenager"
     default :
     return "You have an age"
   }
